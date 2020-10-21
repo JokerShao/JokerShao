@@ -13,8 +13,7 @@ Hi, I'm Zexi Shao, graduated from North China Institute of Aerospace Engineering
 There are some my recent work.
 
 1. Camera extern parameters auto calibration
-
-Gif...
+<img width="500" height="180" src="https://raw.githubusercontent.com/JokerShao/JokerShao/master/calib_res.gif" />
 
 2. Vision motion capture
 
